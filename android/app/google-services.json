@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788182269102",
+    "project_id": "aplikasi-uang-kas-920ca",
+    "storage_bucket": "aplikasi-uang-kas-920ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788182269102:android:3de2200eb0628f65c1813f",
+        "android_client_info": {
+          "package_name": "com.example.cashstory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy1HiBBIpisOz65bkDPEWEMRDdeONobJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
